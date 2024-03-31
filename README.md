@@ -27,4 +27,5 @@ yarn dev --host
 # Links
 - [Doc](https://docs.ton.org/develop/dapps/twa)
 - [Example TMA](https://t.me/vite_twa_example_bot/app)
+- [Setting up a bot](https://docs.ton.org/develop/dapps/telegram-apps/app-examples)
 - [Link](https://twa-dev.github.io/vite-boilerplate/)
